@@ -1,70 +1,79 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Ali",
-            "email": "ali@example.com",
-            "title": "Mening birinchi postim",
-            "content": "Bu mening birinchi postimning mazmuni."
-        },
-        {
-            "id": 2,
-            "name": "Vali",
-            "email": "vali@example.com",
-            "title": "Texnologiya haqida",
-            "content": "Texnologiya hayotimizni osonlashtiradi."
-        },
-        {
-            "id": 3,
-            "name": "Olim",
-            "email": "olim@example.com",
-            "title": "Sportning ahamiyati",
-            "content": "Sport sog‘liq uchun muhim."
-        },
-        {
-            "id": 4,
-            "name": "Gulnoza",
-            "email": "gulnoza@example.com",
-            "title": "Ovqat tayyorlash sirlari",
-            "content": "Mazali ovqat tayyorlash uchun sabr kerak."
-        },
-        {
-            "id": 5,
-            "name": "Dilnoza",
-            "email": "dilnoza@example.com",
-            "title": "Tabiatni sevaylik",
-            "content": "Tabiatni asrash barchamizning vazifamiz."
-        },
-        {
-            "id": 1736324902989,
-            "name": "Sardor",
-            "content": ";kjfjdfs"
-        },
-        {
-            "id": 1736324924554,
-            "name": "Sanjarasood",
-            "content": ""
-        },
-        {
-            "id": 1736324961077,
-            "name": "sad",
-            "content": ""
-        },
-        {
-            "id": 1736325021172,
-            "name": "Sanjar",
-            "content": "Yaxshi bolish yaxshi"
-        },
-        {
-            "id": 1736325138930,
-            "name": "",
-            "content": "Assalomu Alaykum hammaga"
-        },
-
-        {
-            "id": 1736325339435,
-            "name": "Sardor",
-            "content": "Assalomu Alaykum ustoz qle chiqipti post qoldirarsiz pastdan !!"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "email": "ali@example.com",
+      "title": "Mening birinchi postim",
+      "content": "Bu mening birinchi postimning mazmuni."
+    },
+    {
+      "id": 2,
+      "name": "Vali",
+      "email": "vali@example.com",
+      "title": "Texnologiya haqida",
+      "content": "Texnologiya hayotimizni osonlashtiradi."
+    },
+    {
+      "id": 3,
+      "name": "Olim",
+      "email": "olim@example.com",
+      "title": "Sportning ahamiyati",
+      "content": "Sport sog‘liq uchun muhim."
+    },
+    {
+      "id": 4,
+      "name": "Gulnoza",
+      "email": "gulnoza@example.com",
+      "title": "Ovqat tayyorlash sirlari",
+      "content": "Mazali ovqat tayyorlash uchun sabr kerak."
+    },
+    {
+      "id": 5,
+      "name": "Dilnoza",
+      "email": "dilnoza@example.com",
+      "title": "Tabiatni sevaylik",
+      "content": "Tabiatni asrash barchamizning vazifamiz."
+    },
+    {
+      "id": 1736324902989,
+      "name": "Sardor",
+      "content": ";kjfjdfs"
+    },
+    {
+      "id": 1736324924554,
+      "name": "Sanjarasood",
+      "content": ""
+    },
+    {
+      "id": 1736324961077,
+      "name": "sad",
+      "content": ""
+    },
+    {
+      "id": 1736325021172,
+      "name": "Sanjar",
+      "content": "Yaxshi bolish yaxshi"
+    },
+    {
+      "id": 1736325138930,
+      "name": "Maftuna",
+      "content": "Assalomu Alaykum hammaga"
+    },
+    {
+      "id": 1736325187919,
+      "name": "Maftuna",
+      "content": "Assalomu Alaykum hammaga"
+    },
+    {
+      "id": 1736325339435,
+      "name": "Sardor",
+      "content": "Assalomu Alaykum ustoz qle chiqipti post qoldirarsiz pastdan !!"
+    },
+    {
+      "id": 1736328177649,
+      "name": "",
+      "content": ""
+    }
+  ]
 }

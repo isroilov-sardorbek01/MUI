@@ -21,6 +21,17 @@ function Masala3() {
                 console.log(err);
             });
     }, []);
+    function validate() {
+        if (name === "") {
+            alert("Name is not valid!");
+            return false;
+        }
+        if (content === '') {
+            alert("Content is not valid@");
+            return false;
+        }
+        return true;
+    }
 
     function handleSearch(e) {
         e.preventDefault();
@@ -59,6 +70,10 @@ function Masala3() {
             content,
             id: Date.now(),
         };
+        const isValid = validate()
+        if(!isValid){
+            return
+        }
         axios
             .post("http://localhost:3000/users", data, {
                 headers: {
